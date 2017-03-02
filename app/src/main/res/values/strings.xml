@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LostDogs</string>
+    <string name="title_activity_service">Map</string>
 </resources>
