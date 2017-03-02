@@ -17,17 +17,17 @@
         android:orientation="vertical">
 
         <EditText
-            android:id="@+id/edtuser"
+            android:id="@+id/edtUser"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="User :"
+            android:hint="User : "
             android:inputType="text" />
 
         <EditText
-            android:id="@+id/edtpassword"
+            android:id="@+id/edtPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Password :"
+            android:hint="Password : "
             android:inputType="textPassword" />
 
     </LinearLayout>
@@ -53,6 +53,5 @@
             android:text="Sign Up" />
 
     </LinearLayout>
-
 
 </RelativeLayout>

@@ -35,8 +35,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void initilaview() {
         signInButton = (Button) findViewById(R.id.btnSignIn);
         signUpButton = (Button) findViewById(R.id.btnSignUp);
-        userEditText = (EditText) findViewById(R.id.edtuser);
-        passwordEditText = (EditText) findViewById(R.id.edtpassword);
+        userEditText = (EditText) findViewById(R.id.edtUser);
+        passwordEditText = (EditText) findViewById(R.id.edtPassword);
 
     }
 
